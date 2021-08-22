@@ -1,0 +1,2 @@
+- 👋 Hi, I'm Ahmadou
+- 🌱 I’m currently a Computer Science major at UNC-Chapel Hill
